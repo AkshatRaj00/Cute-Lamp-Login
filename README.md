@@ -401,3 +401,7 @@ A: No, this is frontend only. Add your own backend.
 **If you like this project, please consider giving it a ⭐!**
 
 </div>
+<img width="1918" height="908" alt="Screenshot 2025-10-29 022349" src="https://github.com/user-attachments/assets/622449c3-647b-4762-8cd0-650a5bf7b503" />
+<img width="1899" height="907" alt="Screenshot 2025-10-29 022407" src="https://github.com/user-attachments/assets/37a0b762-baa9-485f-b845-2065df558b21" />
+
+
